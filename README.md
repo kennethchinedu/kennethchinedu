@@ -8,3 +8,4 @@ I'm very passionate about data engineering and becoming great at it.
 - Learn about career experience [here](https://www.linkedin.com/in/a-kenneth-chinedu-5b1342151/)  
 
 Skills: PYTHON / SQL / GCP/ DOCKER 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kennethchinedu)](https://github.com/kennethchinedu/github-readme-stats)
