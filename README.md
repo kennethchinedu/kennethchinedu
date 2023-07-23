@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kenneth 
-### Data Analyst & Entry Level Data Engineer
+#### Data Analyst & Entry Level Data Engineer
 
 I'm very passionate about data engineering and becoming great at it.
 
