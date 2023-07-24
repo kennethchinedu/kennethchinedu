@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Kenneth 
-#### Data Analyst, Entry-Level Data Engineer & Technical Writer
+#### Data Analyst, Entry-Level Data Engineer & A Technical Writer
 
 I'm very passionate about data engineering and becoming great at it.
 
