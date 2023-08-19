@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Kenneth 
-#### Data Analyst, Entry-Level Data Engineer & A Technical Writer
+#### An AWS DE and Product manager for the love of it
 
 I'm very passionate about data engineering and becoming great at it.
 
@@ -7,5 +7,4 @@ I'm very passionate about data engineering and becoming great at it.
 - Learn about my projects [here](https://kenchinedu.site/projects/)
 - Learn about career experience [here](https://www.linkedin.com/in/a-kenneth-chinedu-5b1342151/)  
 
-Skills: PYTHON / SQL / GCP/ DOCKER 
-
+Skills: PYTHON / SQL / AWS 
