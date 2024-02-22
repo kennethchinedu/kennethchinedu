@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Kenneth 
-#### AWS DE and Product manager for the love of it
+#### Data Analytics Engineer for the love of it
 
 I'm very passionate about data engineering and becoming great at it.
 
