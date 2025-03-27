@@ -1,10 +1,9 @@
 ## Hi there 👋, I'm Kenneth 
-#### Data Analytics Engineer for the love of it
+#### DevOps Engineer for the love of it
 
-I'm very passionate about data engineering and becoming great at it.
 
-- I write about data engineering [here](https://kenchinedu.site/blogs/) 
-- Learn about my projects [here](https://kenchinedu.site/projects/)
-- Learn about career experience [here](https://www.linkedin.com/in/a-kenneth-chinedu-5b1342151/)  
+I'm very passionate about data DevOps and becoming great at it.
 
-Skills: PYTHON / SQL / AWS 
+
+
+Skills: KUBERNATES / LINUX / TERRAFORM / MONITORING & ALERTING / CICD / PYTHON / SQL / AWS 
