@@ -1,16 +1,22 @@
-# Hi 👋, I'm Kenneth  
-### DevOps Engineer 🚀
+# Hi there 👋, I'm Kenneth  
+### DevOps Engineer (for the love of it ❤️)
 
-☁️ AWS | ☸️ Kubernetes | ⚙️ Terraform | 🔄 CI/CD | 🐧 Linux  
-
----
-
-## 🏅 Badges  
-![AWS SAA](https://www.credly.com/badges/6437d083-7468-4fdf-9f59-ddb3cfffb331/public_url) ![AWS CP](#) ![Terraform Associate](#)
-[![AWS Solutions Architect – Associate](https://images.credly.com/size/220x220/images/8e1e84c1-3cfa-4e37-9a9f-2f6b3d3c6b6d/image.png)](https://www.credly.com/badges/6437d083-7468-4fdf-9f59-ddb3cfffb331/public_url)
-
+I’m passionate about **automation, cloud, and building cool stuff that just works**.  
+Always learning, always shipping 🚀  
 
 ---
 
-💡 I love automating, breaking & fixing things, and keeping systems happy.  
-![Uploading Screenshot 2025-09-09 at 10.06.30 PM.png…]()
+💡 I love automating, fixing things, and keeping systems happy.  
+
+☁️ AWS • ☸️ Kubernetes • 🐧 Linux • 🐳 Docker  
+⚙️ Terraform • ⛑ Helm • 🚀 ArgoCD  
+🔄 CI/CD (GitHub Actions • Jenkins)  
+📈 Monitoring & Alerting (Prometheus • Grafana • ELK)  
+🐍 Python • 🗄 SQL • 🖥 Bash  
+📦 Git & GitHub  
+
+
+<img width="100" height="100" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/b565e424-bdb1-442b-ba16-543b39f1aaa1" />
+<img width="100" height="100" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/e50f53e0-e005-43fb-b204-f29133fc6fcc" />
+<img width="100" height="100" alt="Terraform associate" src="https://github.com/user-attachments/assets/faa92624-ed37-4f99-8c35-1d55babab986" />
+
