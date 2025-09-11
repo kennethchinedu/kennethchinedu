@@ -13,3 +13,4 @@
 ---
 
 💡 I love automating, breaking & fixing things, and keeping systems happy.  
+![Uploading Screenshot 2025-09-09 at 10.06.30 PM.png…]()
