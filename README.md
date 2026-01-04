@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Kenneth  
-### DevOps Engineer (for the love of it ❤️)
+#I'm Kenneth  
+### DevOps/SRE Engineer 
 
-I’m passionate about **automation, cloud, and building cool stuff that just works**.  
-Always learning, always shipping 🚀  
+I’m passionate about **automation, cloud, and building reliable stuff that just works**.  
+Always shipping 🚀  
 
 ---
 
