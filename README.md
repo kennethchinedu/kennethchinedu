@@ -6,7 +6,7 @@
 
 I build and secure the platforms that product teams ship on: Kubernetes on AWS and Azure, multi-account cloud governance, GitOps delivery, infrastructure as code, and security controls wired into the pipeline instead of bolted on after. 4+ years running production infrastructure.
 
-What I focus on:
+What I enjoy working on:
 
 - **Cloud foundations & governance**: AWS Organizations multi-account setups (account structure, SCP guardrails, centralized IAM), and advanced Azure infrastructure
 - **Platform engineering**: EKS with Karpenter autoscaling, Istio service mesh, ArgoCD GitOps, multi-environment Terraform/Terragrunt
@@ -20,7 +20,7 @@ What I focus on:
 
 | Project | What it shows |
 |---|---|
-| [**pygoat DevSecOps pipeline**](https://github.com/kennethchinedu/pygoat) | Security-gated CI/CD on an intentionally vulnerable Django app: Semgrep SAST with a custom rule (+ tests) and fail-on-new gate, Snyk SCA gate, Hadolint, CycloneDX SBOM, cosign keyless signing with SLSA provenance, staging → production deploys with env-scoped secrets. Runtime image cut from 2,989 to 354 OS findings. |
+| [**pygoat DevSecOps pipeline**](https://github.com/kennethchinedu/pygoat-devsecops-pipeline) | Security-gated CI/CD on an intentionally vulnerable Django app: Semgrep SAST with a custom rule (+ tests) and fail-on-new gate, Snyk SCA gate, Hadolint, CycloneDX SBOM, cosign keyless signing with SLSA provenance, staging → production deploys with env-scoped secrets. Runtime image cut from 2,989 to 354 OS findings. |
 | [**AWS multi-account estate**](https://github.com/kennethchinedu/aws-estate-project) | Governed AWS Organizations estate in Terraform (in progress): Control Tower landing zone, OUs, SCP guardrails, RCP data perimeter, IAM Identity Center with ABAC, GitHub OIDC deploy chain, SSM-only private workloads, break-glass and detection. Every guardrail test records the predicted allow/deny and deciding policy before it runs. |
 | [**NovaOps Platform**](https://github.com/kennethchinedu/NovaOps-Platform-Project) | Cloud-native platform for staging and production: Terraform modules via Terragrunt, ArgoCD ApplicationSets, Helm + Istio, Cloudflare edge (DNS/WAF), Prometheus/Loki/Grafana/Kiali observability, network policies and IAM. |
 | [**Chaos engineering on EKS**](https://github.com/kennethchinedu/Chaos-DevOps-SRE-project) | SLO-driven reliability lab: formal availability/latency SLOs with error budgets, hypothesis-driven Chaos Mesh experiments on EKS + Karpenter + Istio, all infra in Terragrunt. |
