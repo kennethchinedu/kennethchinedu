@@ -2,6 +2,8 @@
 
 **DevSecOps · Platform Engineering · Cloud Infrastructure**
 
+[LinkedIn](https://www.linkedin.com/in/kenneth-chinedu-5b1342151/) · [anamsken60@gmail.com](mailto:anamsken60@gmail.com)
+
 I build and secure the platforms that product teams ship on: Kubernetes on AWS and Azure, multi-account cloud governance, GitOps delivery, infrastructure as code, and security controls wired into the pipeline instead of bolted on after. 4+ years running production infrastructure.
 
 What I focus on:
