@@ -6,11 +6,11 @@ I build and secure the platforms that product teams ship on: Kubernetes on AWS a
 
 What I focus on:
 
-- **Cloud foundations & governance** — AWS Organizations multi-account setups (account structure, SCP guardrails, centralized IAM), and advanced Azure infrastructure
-- **Platform engineering** — EKS with Karpenter autoscaling, Istio service mesh, ArgoCD GitOps, multi-environment Terraform/Terragrunt
-- **Software supply-chain security** — SAST/SCA gates, SBOMs, image signing and provenance (cosign, SLSA), container hardening
-- **Identity & secrets** — OIDC-based CI auth, Vault, least-privilege IAM, environment-scoped secrets
-- **Reliability** — SLOs and error budgets, Prometheus/Grafana/Loki observability, chaos experiments with measured outcomes
+- **Cloud foundations & governance**: AWS Organizations multi-account setups (account structure, SCP guardrails, centralized IAM), and advanced Azure infrastructure
+- **Platform engineering**: EKS with Karpenter autoscaling, Istio service mesh, ArgoCD GitOps, multi-environment Terraform/Terragrunt
+- **Software supply-chain security**: SAST/SCA gates, SBOMs, image signing and provenance (cosign, SLSA), container hardening
+- **Identity & secrets**: OIDC-based CI auth, Vault, least-privilege IAM, environment-scoped secrets
+- **Reliability**: SLOs and error budgets, Prometheus/Grafana/Loki observability, chaos experiments with measured outcomes
 
 ---
 
